@@ -10,6 +10,7 @@ Este projeto usa o algoritmo SHA-256 para criptografar senhas e verificar se a s
 ## Requisitos
 
 - Python 3.x
+- hashlib
 
 ## Exemplo de Uso
 
